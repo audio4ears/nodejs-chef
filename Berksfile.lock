@@ -1,0 +1,7 @@
+DEPENDENCIES
+  nodejs-chef
+    path: .
+    metadata: true
+
+GRAPH
+  nodejs-chef (0.1.0)
